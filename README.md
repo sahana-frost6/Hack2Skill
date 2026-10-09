@@ -1,6 +1,8 @@
 # MediSense AI
 “Understand your health. Act earlier. Live better.”
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sahana-frost6/Hack2Skill)
+
 ## Problem Statement
 Traditional healthcare often reacts to illness rather than preventing it. Patients struggle to understand complex medical reports, track their health trends, and know when to seek medical attention.
 
