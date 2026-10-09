@@ -1,0 +1,15 @@
+.gcloudignore
+.git
+.github
+node_modules/
+**/node_modules/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
